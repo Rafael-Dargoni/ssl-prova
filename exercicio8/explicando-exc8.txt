@@ -1,0 +1,3 @@
+Foi feita a verificação do certificado no navegador ao acessar o servidor.
+
+O navegador identifica que o certificado é autoassinado e não confiável, exibindo um aviso de segurança. Isso acontece porque não há uma autoridade certificadora reconhecida validando o certificado.
