@@ -1,0 +1,3 @@
+Foi gerado um certificado digital autoassinado com validade de 365 dias, utilizando o CSR e a chave privada.
+
+Esse certificado serve para autenticar a identidade em conexões seguras. Como é autoassinado, não é reconhecido por autoridades confiáveis, mas é útil para testes e ambientes locais.
