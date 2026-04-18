@@ -1,0 +1,3 @@
+Foi utilizado o comando SCP para transferir o certificado gerado para outro sistema remoto.
+
+O SCP permite copiar arquivos de forma segura entre máquinas através do protocolo SSH, garantindo que os dados sejam transmitidos de forma criptografada.
