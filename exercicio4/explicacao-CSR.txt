@@ -1,0 +1,3 @@
+Foi criado um CSR (Certificate Signing Request) a partir da chave privada previamente gerada.
+
+O CSR é uma solicitação de certificado digital que contém informações como nome, organização e domínio. Ele é enviado para uma autoridade certificadora (CA) para emissão de um certificado válido.
