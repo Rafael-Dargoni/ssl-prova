@@ -1,0 +1,3 @@
+Foi gerada uma chave privada utilizando o OpenSSL com criptografia RSA de 2048 bits, salvando o arquivo como aluno.key.
+
+A chave privada é um dos elementos mais importantes na segurança, pois é utilizada para criptografar e descriptografar informações. Ela deve ser mantida em sigilo absoluto.
