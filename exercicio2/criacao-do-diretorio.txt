@@ -1,0 +1,3 @@
+Foi criado um diretório específico para armazenar certificados SSL dentro de /etc/ssl/certificates, e o terminal foi direcionado para esse caminho.
+
+Essa organização é importante para manter os certificados centralizados em um local padrão do sistema, facilitando o gerenciamento e utilização posterior.
