@@ -1,0 +1,3 @@
+Foi iniciado um servidor HTTP simples na porta 8443 utilizando Python, e o acesso foi feito via HTTPS.
+
+O erro ocorre porque o servidor não está configurado com um certificado válido para HTTPS, já que o módulo padrão do Python não implementa SSL automaticamente. Por isso, o navegador alerta sobre a conexão não segura.
